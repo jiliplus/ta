@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD041 -->
-<h1 align="center">:taco: Technical Analysis</h1>
+<h1 align="center">:metal: Technical Analysis</h1>
 <p align="center">
 <!--  -->
 <a href="https://github.com/jujili/ta/releases"> <img src="https://img.shields.io/github/v/tag/jujili/ta?include_prereleases&sort=semver" alt="Release" title="Release"></a>
